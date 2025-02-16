@@ -23,5 +23,5 @@ I am a Data Scientist passionate about data to solve real-world problems.
 
 ## 📊 GitHub Stats
 
-![MeghanaThota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeghanaThota&show_icons=true)
+![MeghanaThota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meghana-Thota&show_icons=true)
 
