@@ -1,4 +1,4 @@
-# Meghana_Thota
+# Meghana-Thota
 # About 👋 MeghanaThota
 
 I am a Data Scientist passionate about data to solve real-world problems. 
