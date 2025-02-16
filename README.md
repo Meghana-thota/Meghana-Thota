@@ -15,7 +15,7 @@ I am a Data Scientist passionate about data to solve real-world problems.
 - AWS
 - CNN and AE's
   
-
+ 
 ### 📖 Currently pursuing Master's in Data Science.
 
 ---
