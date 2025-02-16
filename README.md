@@ -5,7 +5,7 @@ I am a Data Scientist passionate about data to solve real-world problems.
 
 - Apart from Data Science, I enjoy cooking new cuisines and reading books. .
 
-## My Skills 🚀
+## My Skills 🚀 
 - Machine Learning
 - Deep Learning
 - SQL
