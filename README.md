@@ -19,14 +19,15 @@ I am a Data Scientist passionate about data to solve real-world problems.
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![MeghanaThota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeghanaThota&show_icons=true&theme=radical)
+![MeghanaThota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeghanaThota&show_icons=true)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeghanaThota&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeghanaThota)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MeghanaThota&theme=radical&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MeghanaThota&margin-w=15)
