@@ -26,7 +26,7 @@ I am a Data Scientist passionate about data to solve real-world problems.
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeghanaThota)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeghanaThota&theme=default)
 
 ## 🏆 GitHub Trophies
 
