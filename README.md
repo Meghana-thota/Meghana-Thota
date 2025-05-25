@@ -7,8 +7,13 @@ I am a Data Scientist passionate about data to solve real-world problems.
 
 ## My Skills 🚀 
 - Machine Learning
+- Apache AirFlow
+- Astro
+- PostgreSQL
 - Deep Learning
 - SQL
+- LLMs
+- LCMs
 - NLP
 - Python
 - Data Science
