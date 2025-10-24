@@ -7,6 +7,11 @@ I am a Data Scientist passionate about data to solve real-world problems.
 
 ## My Skills 🚀 
 - Machine Learning
+- AI
+- RAG
+- MCP
+- Agentic AI
+- Langchain
 - Apache AirFlow
 - Astro
 - PostgreSQL
@@ -21,7 +26,7 @@ I am a Data Scientist passionate about data to solve real-world problems.
 - CNN and AE's
   
  
-### 📖 Currently pursuing Master's in Data Science.
+### 📖 Garduated with Master's in Data Science and Currently working as AI Engineer at LVC Solutions.
 
 ---
 
