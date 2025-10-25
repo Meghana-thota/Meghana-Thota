@@ -17,7 +17,7 @@ I’m actively seeking full-time roles such as AI Engineer, ML Engineer, Data Sc
 
 📧 Reach me at: meghanathota13@gmail.com
 
-## My Skills 🚀 
+## My Skills 
 - Machine Learning
 - AI
 - RAG
@@ -37,13 +37,5 @@ I’m actively seeking full-time roles such as AI Engineer, ML Engineer, Data Sc
 - AWS
 - CNN and AE's
   
- 
-### 📖 Garduated with Master's in Data Science and Currently working as AI Engineer at LVC Solutions.
 
----
-
-
-## 📊 GitHub Stats
-
-![MeghanaThota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meghana-Thota&show_icons=true)
 
