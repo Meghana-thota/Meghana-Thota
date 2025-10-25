@@ -1,5 +1,4 @@
 # Meghana Thota
-# About Meghana Thota
 
 👋 Hi there!
 
